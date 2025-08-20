@@ -1,0 +1,16 @@
+.dockerignore
+.env
+.env.*
+.git
+.gitignore
+.npmrc
+.prettierignore
+.prettierrc
+.svelte-kit
+build
+docker-compose.yml
+Dockerfile
+eslint.config.js
+LICENSE
+node_modules
+README.md
